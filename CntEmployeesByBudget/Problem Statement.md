@@ -10,13 +10,13 @@ In this task, we will be creating a table with store the candidate name, positio
 Next, we will be assessing the table to check number of Seniors and Juniors the company can hire. <br />
 
 Use below candidate information: <br />
-Judy, Senior, 53000
-Mandy, Junior, 15000
-Eve, Junior, 10000
-Steve, Junior, 12000
-Andrew, Senior, 55000
-Shermaine, Senior, 75000
-Evan, Senior, 45000
-Tina, Junior, 18000
-Kelly, Junior, 13000
-Lermaine, Senior, 65000
+Judy, Senior, 53000 <br />
+Mandy, Junior, 15000 <br />
+Eve, Junior, 10000 <br />
+Steve, Junior, 12000 <br />
+Andrew, Senior, 55000 <br />
+Shermaine, Senior, 75000 <br />
+Evan, Senior, 45000 <br />
+Tina, Junior, 18000 <br />
+Kelly, Junior, 13000 <br />
+Lermaine, Senior, 65000 <br />
