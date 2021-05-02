@@ -1,6 +1,6 @@
 **Problem Statement** <br />
 
-A company allocates total annual budget of $220,000 to hire new employees. 
+A company allocates total annual budget of $250,000 to hire new employees. 
 Below are the candidate with the positions they interviewed and their expected salary. 
 Assume that expected salary and position are the only 2 reasons for selection, find out what is the number of Seniors and Juniors the company can get, if <br />
 > 1- the company will take all Seniors within the total budget before they consider any Juniors <br />
